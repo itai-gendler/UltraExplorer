@@ -1,0 +1,10 @@
+scenarioKinds:
+- id: primary
+  name: Primary
+  description: An ordinary successful use.
+- id: validation
+  name: Validation
+  description: Input that needs correction or confirmation.
+- id: edge
+  name: Edge
+  description: An alternate condition, interruption or dependency failure.
